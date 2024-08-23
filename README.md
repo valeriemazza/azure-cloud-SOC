@@ -32,14 +32,15 @@ For the "BEFORE" metrics, all resources were originally deployed, exposed to the
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
 ## Attack Maps Before Hardening / Security Controls
-![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/1qvswSX.png)<br>
-![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+
+![image](https://github.com/user-attachments/assets/b5f32300-d6dd-496b-ab4a-38b1b5e69380)
+![image](https://github.com/user-attachments/assets/058960da-f3ab-4ab0-a071-e4b2c34e1185)
+![image](https://github.com/user-attachments/assets/a785c24b-98be-4954-a734-c001a81a82bf)
 
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 2023-03-15 17:04:29
+Start Time 2023-03-10 21:03:08
 Stop Time 2023-03-16 17:04:29
 
 | Metric                   | Count
