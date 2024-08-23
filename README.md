@@ -69,8 +69,15 @@ Stop Time	2024-08-20 16:22:10
 | SecurityIncident         | 0
 | AzureNetworkAnalytics_CL | 0
 
+## RESULTS After Hardening / Security Controls (measured in percent of improvement)
 
-
+| Metric                   | % Change
+| ------------------------ | -----
+| SecurityEvent            | 97.09
+| Syslog                   | 100
+| SecurityAlert            | 100
+| SecurityIncident         | 100
+| AzureNetworkAnalytics_CL | 100
 
 ## Conclusion
 
